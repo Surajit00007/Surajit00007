@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Surajit00007
+![Banner](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!-- Surajit Sahoo -->
 <h2 align="center">Hi 👋 My name is Surajit Sahoo</h2>
 
