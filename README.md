@@ -28,7 +28,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <!-- Social Links -->
   <a href="https://www.linkedin.com/in/surajit-sahoo-084173335/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
