@@ -4,13 +4,14 @@
 <h1 align="center">(@Surajit00007)👋</h1>
 
 <p align="center">
-  <b>AI Engineer | Building Intelligent AI Agents | ML & Deep Learning Specialist</b><br>
+  <b>AI Engineer | Building Intelligent AI Agents | Machine Learning & Deep Learning </b><br>
   <i>Crafting autonomous systems that learn, adapt, and solve real-world problems</i>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%E2%9A%99%EF%B8%8F+Building+the+Future;Specialized+in+AI+Agents+%26+Autonomous+Systems;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Creating+Intelligence+that+Works"/>
 </p>
 ---
+
 ## 🚀 About Me
 
 I'm **Surajit Sahoo**, an **AI Engineer** passionate about building **intelligent AI agents** and autonomous systems. My expertise spans **Machine Learning**, **Deep Learning**, and **AI agent development**. I focus on creating AI solutions that don't just process data, but actively reason, learn, and take actions to solve complex problems.
@@ -49,6 +50,7 @@ I'm **Surajit Sahoo**, an **AI Engineer** passionate about building **intelligen
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 ---
+
 ## 🔍 Let's Connect
 
 - 🏠 India
@@ -60,6 +62,7 @@ I'm **Surajit Sahoo**, an **AI Engineer** passionate about building **intelligen
 - 💬 [WhatsApp](https://wa.me/qr/EP5FD5HPXI3DM1)
 
 ---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Surajit00007&show_icons=true&theme=tokyonight" />
