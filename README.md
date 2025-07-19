@@ -39,7 +39,6 @@ I'm **Surajit Sahoo**, an **AI Engineer** from **India** passionate about buildi
 
 ### AI Agent Tools
 <p>
-  <img src="https://img.shields.io/badge/LangChain-Black?style=for-the-badge&logo=LangChain&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -48,8 +47,6 @@ I'm **Surajit Sahoo**, an **AI Engineer** from **India** passionate about buildi
 
 ### Development & Deployment
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
