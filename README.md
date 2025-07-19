@@ -1,7 +1,7 @@
 ![Banner](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Surajit Sahoo</h1>
 
-<h1 align="center">Hi there, I'm Surajit Sahoo (@Surajit00007)👋</h1>
+<h1 align="center">(@Surajit00007)👋</h1>
 
 <p align="center">
   <b>AI Engineer | Building Intelligent AI Agents | ML & Deep Learning Specialist</b><br>
