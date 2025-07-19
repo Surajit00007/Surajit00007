@@ -2,19 +2,23 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Surajit Sahoo</h1>
 
 <h1 align="center">(@Surajit00007)👋</h1>
+<h1 align="center">Hi there, I'm Surajit Sahoo 👋</h1>
 
 <p align="center">
-  <b>AI Engineer | Building Intelligent AI Agents | Machine Learning & Deep Learning </b><br>
+  <b>AI Engineer | Building Intelligent AI Agents | ML & Deep Learning Specialist</b><br>
   <i>Crafting autonomous systems that learn, adapt, and solve real-world problems</i>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%E2%9A%99%EF%B8%8F+Building+the+Future;Specialized+in+AI+Agents+%26+Autonomous+Systems;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Creating+Intelligence+that+Works"/>
 </p>
+
 ---
 
 ## 🚀 About Me
 
-I'm **Surajit Sahoo**, an **AI Engineer** passionate about building **intelligent AI agents** and autonomous systems. My expertise spans **Machine Learning**, **Deep Learning**, and **AI agent development**. I focus on creating AI solutions that don't just process data, but actively reason, learn, and take actions to solve complex problems.
+I'm **Surajit Sahoo**, an **AI Engineer** from **India** passionate about building **intelligent AI agents** and autonomous systems. My expertise spans **Machine Learning**, **Deep Learning**, and **AI agent development**. I focus on creating AI solutions that don't just process data, but actively reason, learn, and take actions to solve complex problems.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -37,9 +41,10 @@ I'm **Surajit Sahoo**, an **AI Engineer** passionate about building **intelligen
 ### AI Agent Tools
 <p>
   <img src="https://img.shields.io/badge/LangChain-Black?style=for-the-badge&logo=LangChain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CrewAI-00C4CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zencode-4285F4?style=for-the-badge&logo=code&logoColor=white"/>
 </p>
 
 ### Development & Deployment
@@ -49,21 +54,36 @@ I'm **Surajit Sahoo**, an **AI Engineer** passionate about building **intelligen
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
+
 ---
 
 ## 🔍 Let's Connect
 
-- 🏠 India
-- 📧 Email: surajit007inc@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/surajit-sahoo-084173335/)
-- 💻 [GitHub](https://github.com/Surajit00007)
-- 🌐 [Portfolio & Resume](https://surajitsahoo007.wordpress.com/resume/)
-- 📸 [Instagram](https://www.instagram.com/surajit._007/)
-- 💬 [WhatsApp](https://wa.me/qr/EP5FD5HPXI3DM1)
+<p align="center">
+  <a href="mailto:surajit007inc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/surajit-sahoo-084173335/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Surajit00007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://surajitsahoo007.wordpress.com/resume/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/surajit._007/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/qr/EP5FD5HPXI3DM1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Surajit00007&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=Surajit00007&theme=tokyonight" />
@@ -74,6 +94,7 @@ I'm **Surajit Sahoo**, an **AI Engineer** passionate about building **intelligen
 </p>
 
 ---
+
 <p align="center">
 <i>"Building AI agents that don't just compute - they think, learn, and act with purpose."</i>
 </p>
